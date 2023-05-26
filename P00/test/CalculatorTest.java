@@ -72,6 +72,7 @@ public class CalculatorTest {
 		int expected = 5;
 		assertEquals(actual, expected);
 		
+		//Heng Jun Yang
 	}
 
 }
